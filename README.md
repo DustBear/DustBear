@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={yaho166442})](https://solved.ac/{yaho166442})
 
 <!--
 **DustBear/DustBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
